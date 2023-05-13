@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="135ff86c-76dd-4d83-8df0-f28a588ac519" name="Changes" comment="" />
+    <list default="true" id="e418d95e-e322-4d74-9787-1c4a5c04fc2b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="2PkLJQ7ySwG8wfRbM8E2UQVtRh0" />
+  <component name="ProjectId" id="2PkLWhss6zc0RIGbYtj3zhSYRNx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,23 +25,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="135ff86c-76dd-4d83-8df0-f28a588ac519" name="Changes" comment="" />
-      <created>1683996062269</created>
+      <changelist id="e418d95e-e322-4d74-9787-1c4a5c04fc2b" name="Changes" comment="" />
+      <created>1683996167112</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1683996062269</updated>
+      <updated>1683996167112</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
